@@ -131,7 +131,7 @@ header{
 .principal{
     background: 
         linear-gradient(to bottom, rgba(0,0,0,0.53) 0%,rgba(19,19,19,0.53) 100%), 
-        url(../imagenes/fondo.jpg) bottom center/cover no-repeat;
+        url(../imagenes/fondo.webp) bottom center/cover no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: center;
