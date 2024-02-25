@@ -1,2 +1,2 @@
 # codeweb
-Recursos web para el curso de diseño web
+Recopilación de apuntes, manuales y cursos online como complemento educativo para la realización del curso "Confección y Publicación de Páginas Web 2023" del S.E.P.E.
