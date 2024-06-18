@@ -1,3 +1,5 @@
+import scrollSpy from "./scroll_espia.js";
+
 const ham = document.querySelector('.ham');
 const enlaces = document.querySelector('.enlaces-menu');
 const logo = document.querySelector('li.logo');
@@ -34,4 +36,5 @@ window.addEventListener('DOMContentLoaded', function() {
       // Ajustar la altura del contenido al 100vh
       document.body.style.height = '100vh';
     }
+    scrollSpy();
 });
